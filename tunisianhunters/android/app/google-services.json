@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527342348397",
+    "firebase_url": "https://tunisianhunters-f78d1.firebaseio.com",
+    "project_id": "tunisianhunters-f78d1",
+    "storage_bucket": "tunisianhunters-f78d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527342348397:android:0c593972fab4efb61f3764",
+        "android_client_info": {
+          "package_name": "com.hunt.tunisianhunters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527342348397-o3sebsj7dv7t33nqb86br0l0iufg5b64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTpnf-KuZ5K4KhUGsEtFp6PlzvLsJVG_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527342348397-o3sebsj7dv7t33nqb86br0l0iufg5b64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
